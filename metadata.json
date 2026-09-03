@@ -1,0 +1,6 @@
+{
+  "name": "NyayaAI",
+  "description": "AI Legal Assistant with Crime Auto-Detection, FIR Builder, and DLSA Legal Aid Locator",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
